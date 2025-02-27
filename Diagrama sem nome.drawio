@@ -202,6 +202,69 @@
         <mxCell id="s9mXQDzWcyfyb0AubfoM-32" value="Programar sistema de coleta de lixo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="707" y="1020" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="s9mXQDzWcyfyb0AubfoM-33" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1" source="s9mXQDzWcyfyb0AubfoM-16" target="s9mXQDzWcyfyb0AubfoM-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="950" y="730" as="sourcePoint" />
+            <mxPoint x="890" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s9mXQDzWcyfyb0AubfoM-34" value="Criar sistema de criação de personagem" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="707" y="620" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s9mXQDzWcyfyb0AubfoM-35" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1" source="s9mXQDzWcyfyb0AubfoM-16" target="s9mXQDzWcyfyb0AubfoM-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="940" y="1030" as="sourcePoint" />
+            <mxPoint x="910" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s9mXQDzWcyfyb0AubfoM-36" value="Criar sistema de configurações de tela e da qualidade dos gráficos&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="1089" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s9mXQDzWcyfyb0AubfoM-37" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1" source="s9mXQDzWcyfyb0AubfoM-16" target="s9mXQDzWcyfyb0AubfoM-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1030" y="770" as="sourcePoint" />
+            <mxPoint x="890" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s9mXQDzWcyfyb0AubfoM-38" value="&amp;nbsp;Criar sistema de interação com NPCs" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="580" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s9mXQDzWcyfyb0AubfoM-39" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1" source="s9mXQDzWcyfyb0AubfoM-16" target="s9mXQDzWcyfyb0AubfoM-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="995" y="720" as="sourcePoint" />
+            <mxPoint x="1020" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s9mXQDzWcyfyb0AubfoM-40" value="Criar o sistema do caminhão de lixo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="590" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s9mXQDzWcyfyb0AubfoM-41" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1" source="s9mXQDzWcyfyb0AubfoM-9" target="s9mXQDzWcyfyb0AubfoM-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="1070" as="sourcePoint" />
+            <mxPoint x="380" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s9mXQDzWcyfyb0AubfoM-42" value="Criar design dos veículos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="1009" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s9mXQDzWcyfyb0AubfoM-43" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1" source="s9mXQDzWcyfyb0AubfoM-9" target="s9mXQDzWcyfyb0AubfoM-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="275" y="780" as="sourcePoint" />
+            <mxPoint x="370" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s9mXQDzWcyfyb0AubfoM-44" value="Criar design do menu inicial" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="660" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s9mXQDzWcyfyb0AubfoM-45" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1" source="s9mXQDzWcyfyb0AubfoM-16" target="s9mXQDzWcyfyb0AubfoM-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1130" y="770" as="sourcePoint" />
+            <mxPoint x="1020" y="1090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s9mXQDzWcyfyb0AubfoM-46" value="Criar o sistema do menu inicial" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1110" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
