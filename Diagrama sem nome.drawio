@@ -41,7 +41,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2fTdF2LbN-ydWTbkAQNO-19" value="Sistema" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="980" y="440" width="60" height="120" as="geometry" />
+          <mxGeometry x="990" y="440" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="2fTdF2LbN-ydWTbkAQNO-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="2fTdF2LbN-ydWTbkAQNO-19" target="2fTdF2LbN-ydWTbkAQNO-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -74,42 +74,12 @@
           <mxGeometry x="675" y="460" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2fTdF2LbN-ydWTbkAQNO-29" value="Personagens" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="150" y="470" width="60" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="2fTdF2LbN-ydWTbkAQNO-31" value="Desenvolvedor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="980" y="90" width="60" height="120" as="geometry" />
+          <mxGeometry x="150" y="440" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="2fTdF2LbN-ydWTbkAQNO-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="2fTdF2LbN-ydWTbkAQNO-14" target="2fTdF2LbN-ydWTbkAQNO-29" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="330" y="380" as="sourcePoint" />
             <mxPoint x="260" y="440" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2fTdF2LbN-ydWTbkAQNO-35" value="Perder conta" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="330" y="50" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="2fTdF2LbN-ydWTbkAQNO-36" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="2fTdF2LbN-ydWTbkAQNO-31" target="2fTdF2LbN-ydWTbkAQNO-39" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="827" y="175" as="sourcePoint" />
-            <mxPoint x="877" y="125" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2fTdF2LbN-ydWTbkAQNO-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="2fTdF2LbN-ydWTbkAQNO-35" target="2fTdF2LbN-ydWTbkAQNO-38" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="530" y="115" as="sourcePoint" />
-            <mxPoint x="580" y="65" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2fTdF2LbN-ydWTbkAQNO-38" value="Consultar Desenvolvedor" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="50" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="2fTdF2LbN-ydWTbkAQNO-39" value="Ajudar Jogador" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="760" y="50" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="s9mXQDzWcyfyb0AubfoM-1" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2fTdF2LbN-ydWTbkAQNO-38" target="2fTdF2LbN-ydWTbkAQNO-39">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="710" y="170" as="sourcePoint" />
-            <mxPoint x="760" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="s9mXQDzWcyfyb0AubfoM-3" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1" source="2fTdF2LbN-ydWTbkAQNO-29" target="2fTdF2LbN-ydWTbkAQNO-28">
@@ -125,22 +95,112 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="s9mXQDzWcyfyb0AubfoM-5" value="Poder armazenar o dinheiro, recursos, aparência e relações com os NPCs" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="750" width="150" height="80" as="geometry" />
+          <mxGeometry x="400" y="585" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="s9mXQDzWcyfyb0AubfoM-6" value="Se" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="135" width="60" height="30" as="geometry" />
+        <mxCell id="s9mXQDzWcyfyb0AubfoM-9" value="Design" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="800" width="60" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="s9mXQDzWcyfyb0AubfoM-7" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="2fTdF2LbN-ydWTbkAQNO-2" target="s9mXQDzWcyfyb0AubfoM-6">
+        <mxCell id="s9mXQDzWcyfyb0AubfoM-10" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1" source="s9mXQDzWcyfyb0AubfoM-9" target="s9mXQDzWcyfyb0AubfoM-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="200" as="sourcePoint" />
-            <mxPoint x="285" y="170" as="targetPoint" />
+            <mxPoint x="780" y="750" as="sourcePoint" />
+            <mxPoint x="290" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s9mXQDzWcyfyb0AubfoM-8" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.075;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="s9mXQDzWcyfyb0AubfoM-6" target="2fTdF2LbN-ydWTbkAQNO-35">
+        <mxCell id="s9mXQDzWcyfyb0AubfoM-11" value="Criar os design do mapa&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="720" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s9mXQDzWcyfyb0AubfoM-12" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1" source="s9mXQDzWcyfyb0AubfoM-9" target="s9mXQDzWcyfyb0AubfoM-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="230" y="115" as="sourcePoint" />
-            <mxPoint x="280" y="65" as="targetPoint" />
+            <mxPoint x="395" y="900" as="sourcePoint" />
+            <mxPoint x="445" y="850" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="s9mXQDzWcyfyb0AubfoM-13" value="Criar o design dos personagens" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="415" y="810" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s9mXQDzWcyfyb0AubfoM-14" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1" source="s9mXQDzWcyfyb0AubfoM-9" target="s9mXQDzWcyfyb0AubfoM-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="405" y="1020" as="sourcePoint" />
+            <mxPoint x="455" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s9mXQDzWcyfyb0AubfoM-15" value="Criar o design dos NPCs" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="910" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s9mXQDzWcyfyb0AubfoM-16" value="Programador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="990" y="800" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="s9mXQDzWcyfyb0AubfoM-18" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1" source="s9mXQDzWcyfyb0AubfoM-16" target="s9mXQDzWcyfyb0AubfoM-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="795" y="870" as="sourcePoint" />
+            <mxPoint x="845" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s9mXQDzWcyfyb0AubfoM-19" value="Criar colisões no mapa com base o design do mapa" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="707" y="720" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s9mXQDzWcyfyb0AubfoM-20" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s9mXQDzWcyfyb0AubfoM-11" target="s9mXQDzWcyfyb0AubfoM-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="785" as="sourcePoint" />
+            <mxPoint x="660" y="735" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s9mXQDzWcyfyb0AubfoM-21" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1" source="s9mXQDzWcyfyb0AubfoM-16" target="s9mXQDzWcyfyb0AubfoM-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="880" as="sourcePoint" />
+            <mxPoint x="820" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s9mXQDzWcyfyb0AubfoM-22" value="Criar sistema de personalizar os personagens com base no design criado" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="810" width="137" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="s9mXQDzWcyfyb0AubfoM-23" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s9mXQDzWcyfyb0AubfoM-13" target="s9mXQDzWcyfyb0AubfoM-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="870" as="sourcePoint" />
+            <mxPoint x="630" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s9mXQDzWcyfyb0AubfoM-24" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="s9mXQDzWcyfyb0AubfoM-15" target="s9mXQDzWcyfyb0AubfoM-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="960" as="sourcePoint" />
+            <mxPoint x="690" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s9mXQDzWcyfyb0AubfoM-25" value="Criar sistema de movimentação e a diferenciação de NPCs" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="910" width="137" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="s9mXQDzWcyfyb0AubfoM-26" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s9mXQDzWcyfyb0AubfoM-16" target="s9mXQDzWcyfyb0AubfoM-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="840" y="1000" as="sourcePoint" />
+            <mxPoint x="890" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s9mXQDzWcyfyb0AubfoM-27" value="CTO" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="800" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="s9mXQDzWcyfyb0AubfoM-28" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1" source="s9mXQDzWcyfyb0AubfoM-27" target="s9mXQDzWcyfyb0AubfoM-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="860" y="750" as="sourcePoint" />
+            <mxPoint x="1220" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s9mXQDzWcyfyb0AubfoM-29" value="Supervisionar e ajudar o programador" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1121" y="820" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s9mXQDzWcyfyb0AubfoM-30" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="s9mXQDzWcyfyb0AubfoM-29" target="s9mXQDzWcyfyb0AubfoM-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1050" y="875" as="sourcePoint" />
+            <mxPoint x="1100" y="825" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s9mXQDzWcyfyb0AubfoM-31" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1" source="s9mXQDzWcyfyb0AubfoM-16" target="s9mXQDzWcyfyb0AubfoM-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="860" y="1050" as="sourcePoint" />
+            <mxPoint x="910" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s9mXQDzWcyfyb0AubfoM-32" value="Programar sistema de coleta de lixo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="707" y="1020" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
