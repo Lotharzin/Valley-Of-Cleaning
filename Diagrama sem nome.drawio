@@ -265,6 +265,24 @@
         <mxCell id="s9mXQDzWcyfyb0AubfoM-46" value="Criar o sistema do menu inicial" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="1110" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="s9mXQDzWcyfyb0AubfoM-47" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1" source="s9mXQDzWcyfyb0AubfoM-16" target="s9mXQDzWcyfyb0AubfoM-48">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1230" y="1120" as="sourcePoint" />
+            <mxPoint x="1120" y="1110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s9mXQDzWcyfyb0AubfoM-48" value="Criar sistema de itens e a loja de itens" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="1089" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s9mXQDzWcyfyb0AubfoM-50" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1" source="s9mXQDzWcyfyb0AubfoM-16" target="s9mXQDzWcyfyb0AubfoM-51">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1150" y="730" as="sourcePoint" />
+            <mxPoint x="1120" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s9mXQDzWcyfyb0AubfoM-51" value="Configurar sistema de teclas do jogo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="610" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
