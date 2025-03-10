@@ -28,27 +28,36 @@
           <mxGeometry y="150" width="160" height="8" as="geometry" />
         </mxCell>
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--6" value="Programador" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="625" y="410" width="275" height="164" as="geometry">
+          <mxGeometry x="625" y="410" width="285" height="252" as="geometry">
             <mxRectangle x="130" y="380" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--8" value="Criar sistema de coleta de lixo" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="zkfFHV4jXpPFQw0GAbJ--6" vertex="1">
-          <mxGeometry y="26" width="275" height="26" as="geometry" />
+          <mxGeometry y="26" width="285" height="26" as="geometry" />
         </mxCell>
         <mxCell id="uE_KxJZoh66NZD_J44ix-14" value="Criar sistema de caminhão de lixo" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="zkfFHV4jXpPFQw0GAbJ--6">
-          <mxGeometry y="52" width="275" height="26" as="geometry" />
+          <mxGeometry y="52" width="285" height="26" as="geometry" />
         </mxCell>
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--9" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="zkfFHV4jXpPFQw0GAbJ--6" vertex="1">
-          <mxGeometry y="78" width="275" height="8" as="geometry" />
+          <mxGeometry y="78" width="285" height="8" as="geometry" />
         </mxCell>
         <mxCell id="uE_KxJZoh66NZD_J44ix-18" value="Criar sistema de personalização de personagens" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="zkfFHV4jXpPFQw0GAbJ--6">
-          <mxGeometry y="86" width="275" height="26" as="geometry" />
+          <mxGeometry y="86" width="285" height="26" as="geometry" />
         </mxCell>
         <mxCell id="uE_KxJZoh66NZD_J44ix-22" value="Sistema de colisões com base no mapa" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="zkfFHV4jXpPFQw0GAbJ--6">
-          <mxGeometry y="112" width="275" height="26" as="geometry" />
+          <mxGeometry y="112" width="285" height="26" as="geometry" />
         </mxCell>
         <mxCell id="uE_KxJZoh66NZD_J44ix-28" value="Criar sistema de conversas dos NPCs" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="zkfFHV4jXpPFQw0GAbJ--6">
-          <mxGeometry y="138" width="275" height="26" as="geometry" />
+          <mxGeometry y="138" width="285" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="uE_KxJZoh66NZD_J44ix-31" value="Criar sistema de diferenciação e movimentação dos&#xa;NPCs" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="zkfFHV4jXpPFQw0GAbJ--6">
+          <mxGeometry y="164" width="285" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="uE_KxJZoh66NZD_J44ix-33" value="Criar sistema do menu inicial" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="zkfFHV4jXpPFQw0GAbJ--6">
+          <mxGeometry y="200" width="285" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="uE_KxJZoh66NZD_J44ix-34" value="Criar sistema de itens e o sistema de loja" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="zkfFHV4jXpPFQw0GAbJ--6">
+          <mxGeometry y="226" width="285" height="26" as="geometry" />
         </mxCell>
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--12" value="" style="endArrow=block;endSize=10;endFill=0;shadow=0;strokeWidth=1;rounded=0;curved=0;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zkfFHV4jXpPFQw0GAbJ--6" target="uE_KxJZoh66NZD_J44ix-0" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -57,11 +66,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--13" value="Design" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="980" y="410" width="176" height="164" as="geometry">
+          <mxGeometry x="990" y="410" width="176" height="190" as="geometry">
             <mxRectangle x="340" y="380" width="170" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uE_KxJZoh66NZD_J44ix-30" value="Criar design do menu inicial" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="zkfFHV4jXpPFQw0GAbJ--13">
+        <mxCell id="uE_KxJZoh66NZD_J44ix-36" value="Criar design dos móveis" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="zkfFHV4jXpPFQw0GAbJ--13">
           <mxGeometry y="26" width="176" height="26" as="geometry" />
         </mxCell>
         <mxCell id="uE_KxJZoh66NZD_J44ix-26" value="Criar design dos veículos " style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="zkfFHV4jXpPFQw0GAbJ--13">
@@ -78,6 +87,9 @@
         </mxCell>
         <mxCell id="uE_KxJZoh66NZD_J44ix-27" value="Criar design dos NPCs" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="zkfFHV4jXpPFQw0GAbJ--13">
           <mxGeometry y="138" width="176" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="uE_KxJZoh66NZD_J44ix-30" value="Criar design do menu inicial" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="zkfFHV4jXpPFQw0GAbJ--13">
+          <mxGeometry y="164" width="176" height="26" as="geometry" />
         </mxCell>
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--16" value="" style="endArrow=block;endSize=10;endFill=0;shadow=0;strokeWidth=1;rounded=0;curved=0;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zkfFHV4jXpPFQw0GAbJ--13" target="uE_KxJZoh66NZD_J44ix-0" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -110,7 +122,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uE_KxJZoh66NZD_J44ix-0" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Jogo&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Armazenar as modificações e criações&amp;nbsp;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="830" y="40" width="157" height="90" as="geometry" />
+          <mxGeometry x="840" y="40" width="157" height="90" as="geometry" />
         </mxCell>
         <mxCell id="uE_KxJZoh66NZD_J44ix-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.763;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uE_KxJZoh66NZD_J44ix-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -140,6 +152,18 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="910" y="660" as="sourcePoint" />
             <mxPoint x="960" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uE_KxJZoh66NZD_J44ix-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.885;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uE_KxJZoh66NZD_J44ix-27" target="uE_KxJZoh66NZD_J44ix-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="920" y="660" as="sourcePoint" />
+            <mxPoint x="970" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uE_KxJZoh66NZD_J44ix-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.011;exitY=0.808;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uE_KxJZoh66NZD_J44ix-30" target="uE_KxJZoh66NZD_J44ix-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="920" y="635" as="sourcePoint" />
+            <mxPoint x="970" y="585" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
