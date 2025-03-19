@@ -287,7 +287,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zSzEz1A_dr8e0dYvkSog" name="Classes">
-    <mxGraphModel dx="1100" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1100" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -296,13 +296,13 @@
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bbZ99lymWQdrrYa_QFWG-2" value="Nome: String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="bbZ99lymWQdrrYa_QFWG-1" vertex="1">
+        <mxCell id="bbZ99lymWQdrrYa_QFWG-2" value="Cadastrar_nome" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="bbZ99lymWQdrrYa_QFWG-1" vertex="1">
           <mxGeometry y="26" width="220" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="bbZ99lymWQdrrYa_QFWG-3" value="Email: String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="bbZ99lymWQdrrYa_QFWG-1" vertex="1">
+        <mxCell id="bbZ99lymWQdrrYa_QFWG-3" value="Cadastrar_email" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="bbZ99lymWQdrrYa_QFWG-1" vertex="1">
           <mxGeometry y="52" width="220" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="bbZ99lymWQdrrYa_QFWG-4" value="Senha: String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="bbZ99lymWQdrrYa_QFWG-1" vertex="1">
+        <mxCell id="bbZ99lymWQdrrYa_QFWG-4" value="Criar_Senha" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="bbZ99lymWQdrrYa_QFWG-1" vertex="1">
           <mxGeometry y="78" width="220" height="26" as="geometry" />
         </mxCell>
         <mxCell id="bbZ99lymWQdrrYa_QFWG-5" value="Criar_conta" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="bbZ99lymWQdrrYa_QFWG-1" vertex="1">
@@ -331,7 +331,7 @@
         <mxCell id="bbZ99lymWQdrrYa_QFWG-18" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="bbZ99lymWQdrrYa_QFWG-14" vertex="1">
           <mxGeometry y="52" width="230" height="4" as="geometry" />
         </mxCell>
-        <mxCell id="bbZ99lymWQdrrYa_QFWG-19" value="Armazenar dados do usuário" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="bbZ99lymWQdrrYa_QFWG-14" vertex="1">
+        <mxCell id="bbZ99lymWQdrrYa_QFWG-19" value="Armazenar_dados_usuário" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="bbZ99lymWQdrrYa_QFWG-14" vertex="1">
           <mxGeometry y="56" width="230" height="26" as="geometry" />
         </mxCell>
         <mxCell id="bbZ99lymWQdrrYa_QFWG-20" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="bbZ99lymWQdrrYa_QFWG-14" vertex="1">
